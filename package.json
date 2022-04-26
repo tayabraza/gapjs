@@ -1,0 +1,24 @@
+{
+  "name": "gapjs",
+  "version": "0.0.1",
+  "description": "GapJS is a JavaScript library developed to minimise the gap between HTML and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayabraza/gapjs.git"
+  },
+  "keywords": [
+    "GapJS",
+    "JavaScript",
+    "Library"
+  ],
+  "author": "Tayab Raza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tayabraza/gapjs/issues"
+  },
+  "homepage": "https://github.com/tayabraza/gapjs#readme"
+}
